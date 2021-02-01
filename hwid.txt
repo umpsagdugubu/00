@@ -1,0 +1,3 @@
+ClientName:Rainbow ClientVersion:013121  DevVersion::020121
+123456 HWID::355-3b6-316-33c-3f2-34f-36c-30c-343-33f-305-393-30b-321-3c4-369
+
